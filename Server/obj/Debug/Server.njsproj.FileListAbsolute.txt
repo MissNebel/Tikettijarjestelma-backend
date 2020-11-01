@@ -1,0 +1,3 @@
+C:\Users\Mellu\source\repos\Tikettijarjestelma\Tikettijarjestelma\Server\obj\Debug\Server.njsprojAssemblyReference.cache
+C:\Users\Mellu\source\repos\Tikettijarjestelma\Tikettijarjestelma\Server\obj\Debug\Server.njsproj.CoreCompileInputs.cache
+C:\Users\Mellu\source\repos\Tikettijarjestelma\Tikettijarjestelma\Server\bin\Microsoft.NodejsTools.WebRole.dll
